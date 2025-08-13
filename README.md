@@ -23,5 +23,5 @@ A Python script to perform Nmap scans on a target IP or hostname and save detail
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/nmap-network-scanner.git
+git clone https://github.com/Sai-teja-007/nmap-network-scanner.git
 cd nmap-network-scanner
