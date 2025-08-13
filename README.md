@@ -95,10 +95,4 @@ nmap-network-scanner/
 
 This tool is intended for educational purposes only. Scanning networks without permission is illegal and unethical. Use responsibly.
 
----
 
-
-If you want, I can also **create a `.gitignore` and full folder structure** so you can just upload the repo to GitHub immediately, making it fully ready-to-go.  
-
-Do you want me to do that?
-```
