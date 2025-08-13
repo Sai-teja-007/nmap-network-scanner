@@ -27,7 +27,7 @@ git clone https://github.com/Sai-teja-007/nmap-network-scanner.git
 cd nmap-network-scanner
 
 
-
+```
 
 
 
@@ -97,13 +97,6 @@ This tool is intended for educational purposes only. Scanning networks without p
 
 ---
 
-## License
-
-MIT License. See `LICENSE` file for details.
-
-```
-
----
 
 If you want, I can also **create a `.gitignore` and full folder structure** so you can just upload the repo to GitHub immediately, making it fully ready-to-go.  
 
